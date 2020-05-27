@@ -1,0 +1,19 @@
+header,footer {background-color: #2859d2;
+    text-align: center;
+    color: #f6f7fc;
+
+};
+
+p  {color:#2859d2;
+ text-align: center;
+}
+
+input {background-color: blue;
+   border-radius: 5px;
+   color:#f6f7fc;
+}
+
+a,h1  {text-align: center;
+color: #f6f7fc;
+}
+
