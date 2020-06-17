@@ -13,6 +13,9 @@ const boxController = require('./controllers/boxController');
 const itemController = require('./controllers/itemController'); 
 
 
+// Signup
+router.get('/', mainController.homePage);
+
 /* ACCES RELATED ROUTES */
 
 // Signup
